@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.verdadesign.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Verda Design - Typography</title>
+ <link>https://www.verdadesign.com/tags/typography</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Basic Tips For Better Web Typography</title>
+ <link>https://www.verdadesign.com/blog/basic-tips-better-web-typography</link>
+ <description>
+&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+	  
+          &lt;div class=&quot;dnd-atom-wrapper type-image context-sdl_editor_representation&quot; contenteditable=&quot;false&quot;&gt;
+&lt;div class=&quot;dnd-drop-wrapper&quot;&gt;&lt;!-- scald=161:sdl_editor_representation {&quot;option&quot;:&quot;{\u201clink\u201d:\u201d\u201c}&quot;} --&gt;&lt;div class=&#039;image&#039;&gt;&lt;img src=&quot;https://www.verdadesign.com/assets/thumbnails/image/web-type.jpg&quot; width=&quot;1000&quot; height=&quot;500&quot; alt=&quot;web-type.jpg&quot; title=&quot;web-type.jpg&quot; /&gt;&lt;/div&gt;&lt;!-- END scald=161 --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The following are some basic tips to improve your knowledge of web typography. I will get into some more detailed tips in a follow up article. These are some basics that any web designer or web developer should know. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Web Font Selection&lt;/h2&gt;
+&lt;p&gt;Every font has a personality and a unique look and feel to it. Be sure that the fonts you select are appropriate for the website, legible and web safe fonts. There are numerous web font services either free or paid available but be sure that what ever you end up selecting is appropriate.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Web Text Should Be Readable&lt;/h2&gt;
+&lt;p&gt;Ensure that you are able to read text on the website the you are designing without zooming in. Many web users do not actually know how to zoom into a page to enlarge the content. Be sure to take the target audience you are designing for in consideration. For example if the majority of users on a website are elderly ensure that the font is large enough to read without zooming in. Larger font sizes for body copy and headlines are now becoming more acceptable and trendy for web designers to use. The average font size for body copy on a website is between 12 to 16 pixels.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Proper Web Text Leading&lt;/h2&gt;
+&lt;p&gt;Leading or line height as it is referred to as by some developers is the space between each line of text. Leading is important to make sure that the text on your website is legible. Having too much leading can cause the reader to perceive the text as being disjointed and unrelated. There needs to be enough leading to make it easy for readers to disfers between each line and for body appear paragraphs to appear as those they are a unit. A good rule of thumbnail is to add 2 to 5 points larger than the text size for leading. With that said each font has a different appearance and you will have to use your judgement to calculate the best leading for that particular font.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Use Proper Line Length&lt;/h2&gt;
+&lt;p&gt;When line length is too long it makes it difficult for readers to follow and they become frustrated. It leaves the reader hunting for the next line and they can often lose their spot where they were reading. It is extremely important to consider when designing for web. Designing a great web layout and utilizing a grid will aid in creating an ideal space where the content can be placed. Another common rule of thumbnail to use for line length is to only have roughly 12 to 15 words per line or 52 to 78 characters not including spaces.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Contrast and Color For Web Type&lt;/h2&gt;
+&lt;p&gt;Be sure that the text on your website has enough contrast from the background that it is easy to read at length. It is important to consider what purpose the website you are designing for is surving. For example is the website text heavy and are users going to be reading lengthy text on this website? If so ensure that your design choices such as background color and background textures etc. will enhance and not distract from the ability to read text.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Text Shadows and &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; Text Effects&lt;/h2&gt;
+&lt;p&gt;As &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; keeps enhancing our ability to perfect type on the website it has also allowed more room for error. Be sure that all implementations of &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; type techniques such as text shadows etc are done in a manner which does not distract from the legibility of the type. Again there is a time and a place to be playful and experimental with web type but for the majority of websites the type should be highly legible. Be tasteful about the use of drop shadows, glows and other techniques.&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Other Topics of Interest	    	&lt;/h2&gt;
+
+	  	
+	  
+          &lt;div class=&quot;item-list&quot;&gt;&lt;ul class=&quot;textformatter-list&quot;&gt;&lt;li class=&quot;first&quot;&gt;&lt;a href=&quot;/tags/typography&quot;&gt;Typography&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;/tags/web-design&quot;&gt;Web Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;    
+&lt;/div&gt;
+&lt;div class=&quot;social-share clearfix&quot;&gt;&lt;a href=&quot;http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbasic-tips-better-web-typography&amp;amp;t=Basic%20Tips%20For%20Better%20Web%20Typography&quot; class=&quot;social-share-facebook&quot; title=&quot;Facebook&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;https://plus.google.com/share?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbasic-tips-better-web-typography&quot; class=&quot;social-share-googleplus&quot; title=&quot;Google Plus&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Google Plus&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbasic-tips-better-web-typography&amp;amp;mini=true&amp;amp;title=Basic%20Tips%20For%20Better%20Web%20Typography&amp;amp;ro=false&amp;amp;summary=%0A%5Bscald%3D161%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&amp;amp;source=&quot; class=&quot;social-share-linkedin&quot; title=&quot;LinkedIn&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbasic-tips-better-web-typography&amp;amp;media=&amp;amp;description=%0A%5Bscald%3D161%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&quot; class=&quot;social-share-pinterest&quot; title=&quot;Pinterest&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Pinterest&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://reddit.com/submit?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbasic-tips-better-web-typography&amp;amp;title=Basic%20Tips%20For%20Better%20Web%20Typography&quot; class=&quot;social-share-reddit&quot; title=&quot;Reddit&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Reddit&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbasic-tips-better-web-typography&amp;amp;text=Basic%20Tips%20For%20Better%20Web%20Typography&quot; class=&quot;social-share-twitter&quot; title=&quot;Twitter&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-thumbnail field-type-atom-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Thumbnail	    	&lt;/h2&gt;
+
+	  	
+	  
+          web-type.jpg    
+&lt;/div&gt;
+</description>
+ <pubDate>Sat, 03 Mar 2012 06:00:00 +0000</pubDate>
+ <dc:creator>Madison</dc:creator>
+ <guid isPermaLink="false">172 at https://www.verdadesign.com</guid>
+</item>
+<item>
+ <title>Best Typography Blogs</title>
+ <link>https://www.verdadesign.com/blog/best-typography-blogs</link>
+ <description>
+&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+	  
+          &lt;div class=&quot;dnd-atom-wrapper type-image context-sdl_editor_representation&quot; contenteditable=&quot;false&quot;&gt;
+&lt;div class=&quot;dnd-drop-wrapper&quot;&gt;&lt;!-- scald=165:sdl_editor_representation {&quot;option&quot;:&quot;{\u201clink\u201d:\u201d\u201c}&quot;} --&gt;&lt;div class=&#039;image&#039;&gt;&lt;img src=&quot;https://www.verdadesign.com/assets/thumbnails/image/web-type_0.jpg&quot; width=&quot;1000&quot; height=&quot;500&quot; alt=&quot;web-type.jpg&quot; title=&quot;web-type.jpg&quot; /&gt;&lt;/div&gt;&lt;!-- END scald=165 --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;There are allot of typography blogs out there. The following are some of my favorites.&lt;span style=&quot;font-family:arial; font-size:small&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://ilovetypography.com/&quot; target=&quot;_blank&quot; title=&quot;i love typography&quot;&gt;I Love Typography&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://typography-daily.com/&quot;&gt;Typography Daily&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://www.typographyserved.com/&quot;&gt;Typography Served&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://blog.youworkforthem.com/&quot;&gt;You Work For Them&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://fontfeed.com/&quot;&gt;Font Feed&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://swisslegacy.com/&quot;&gt;Swiss Legacy&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://www.veer.com/more/&quot;&gt;Veer&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://ministryoftype.co.uk/&quot;&gt;Ministry Of Type&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://www.typeforyou.org/&quot;&gt;Type For You&lt;/a&gt;&lt;/h2&gt;
+    
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Other Topics of Interest	    	&lt;/h2&gt;
+
+	  	
+	  
+          &lt;div class=&quot;item-list&quot;&gt;&lt;ul class=&quot;textformatter-list&quot;&gt;&lt;li class=&quot;first&quot;&gt;&lt;a href=&quot;/tags/blogging&quot;&gt;Blogging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/tags/social-media&quot;&gt;Social Media&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;/tags/typography&quot;&gt;Typography&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;    
+&lt;/div&gt;
+&lt;div class=&quot;social-share clearfix&quot;&gt;&lt;a href=&quot;http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbest-typography-blogs&amp;amp;t=Best%20Typography%20Blogs&quot; class=&quot;social-share-facebook&quot; title=&quot;Facebook&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;https://plus.google.com/share?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbest-typography-blogs&quot; class=&quot;social-share-googleplus&quot; title=&quot;Google Plus&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Google Plus&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbest-typography-blogs&amp;amp;mini=true&amp;amp;title=Best%20Typography%20Blogs&amp;amp;ro=false&amp;amp;summary=%0A%5Bscald%3D165%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&amp;amp;source=&quot; class=&quot;social-share-linkedin&quot; title=&quot;LinkedIn&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbest-typography-blogs&amp;amp;media=&amp;amp;description=%0A%5Bscald%3D165%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&quot; class=&quot;social-share-pinterest&quot; title=&quot;Pinterest&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Pinterest&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://reddit.com/submit?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbest-typography-blogs&amp;amp;title=Best%20Typography%20Blogs&quot; class=&quot;social-share-reddit&quot; title=&quot;Reddit&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Reddit&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fbest-typography-blogs&amp;amp;text=Best%20Typography%20Blogs&quot; class=&quot;social-share-twitter&quot; title=&quot;Twitter&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-thumbnail field-type-atom-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Thumbnail	    	&lt;/h2&gt;
+
+	  	
+	  
+          web-type.jpg    
+&lt;/div&gt;
+</description>
+ <pubDate>Sun, 19 Feb 2012 06:00:00 +0000</pubDate>
+ <dc:creator>Madison</dc:creator>
+ <guid isPermaLink="false">169 at https://www.verdadesign.com</guid>
+</item>
+<item>
+ <title>10 Amazing Web Typekit Fonts</title>
+ <link>https://www.verdadesign.com/blog/10-amazing-web-typekit-fonts</link>
+ <description>
+&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+	  
+          &lt;div class=&quot;dnd-atom-wrapper type-image context-sdl_editor_representation&quot; contenteditable=&quot;false&quot;&gt;
+&lt;div class=&quot;dnd-drop-wrapper&quot;&gt;&lt;!-- scald=166:sdl_editor_representation {&quot;option&quot;:&quot;{\u201clink\u201d:\u201d\u201c}&quot;} --&gt;&lt;div class=&#039;image&#039;&gt;&lt;img src=&quot;https://www.verdadesign.com/assets/thumbnails/image/web-fonts.jpg&quot; width=&quot;1000&quot; height=&quot;500&quot; alt=&quot;web-fonts.jpg&quot; title=&quot;web-fonts.jpg&quot; /&gt;&lt;/div&gt;&lt;!-- END scald=166 --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://typekit.com/about&quot; target=&quot;_blank&quot; title=&quot;typekit&quot;&gt;Typekit&lt;/a&gt; is a great tool for web designers and web developers and one of the font directories that offer a wide range of high quality web fonts. The following are some great fonts that Typekit offers.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/ff-meta-serif-web-pro&quot; target=&quot;_blank&quot; title=&quot;FF Meta Serif Web Pro&quot;&gt;&lt;span class=&quot;caps&quot;&gt;FF&lt;/span&gt; Meta Serif Web Pro&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/museo&quot; target=&quot;_blank&quot; title=&quot;museo&quot;&gt;Museo Web Font&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/adelle-web&quot; target=&quot;_blank&quot; title=&quot;Adelle Web Font&quot;&gt;Adelle Web Font&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/proxima-nova&quot; target=&quot;_blank&quot; title=&quot;Proxima Nova&quot;&gt;Proxima Nova&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/brevia&quot; target=&quot;_blank&quot; title=&quot;brevia&quot;&gt;Brevia Web Font&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/ff-tisa-web-pro&quot; target=&quot;_blank&quot; title=&quot;tisa pro&quot;&gt;&lt;span class=&quot;caps&quot;&gt;FF&lt;/span&gt; Tisa Web Pro&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/skolar-web&quot; target=&quot;_blank&quot; title=&quot;skolar web font&quot;&gt;Skolar Web Font&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/futura-pt&quot; target=&quot;_blank&quot; title=&quot;futura&quot;&gt;Futura Web Font&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/garamond-premier-pro&quot; target=&quot;_blank&quot; title=&quot;garamond-pro&quot;&gt;Garamond Premier Pro&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://typekit.com/fonts/adriane&quot; target=&quot;_blank&quot; title=&quot;adriane web font&quot;&gt;Adriane Web Font&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Other Topics of Interest	    	&lt;/h2&gt;
+
+	  	
+	  
+          &lt;div class=&quot;item-list&quot;&gt;&lt;ul class=&quot;textformatter-list&quot;&gt;&lt;li class=&quot;first&quot;&gt;&lt;a href=&quot;/tags/web-design&quot;&gt;Web Design&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;/tags/typography&quot;&gt;Typography&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;    
+&lt;/div&gt;
+&lt;div class=&quot;social-share clearfix&quot;&gt;&lt;a href=&quot;http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2F10-amazing-web-typekit-fonts&amp;amp;t=10%20Amazing%20Web%20Typekit%20Fonts&quot; class=&quot;social-share-facebook&quot; title=&quot;Facebook&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;https://plus.google.com/share?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2F10-amazing-web-typekit-fonts&quot; class=&quot;social-share-googleplus&quot; title=&quot;Google Plus&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Google Plus&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2F10-amazing-web-typekit-fonts&amp;amp;mini=true&amp;amp;title=10%20Amazing%20Web%20Typekit%20Fonts&amp;amp;ro=false&amp;amp;summary=%0A%5Bscald%3D166%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&amp;amp;source=&quot; class=&quot;social-share-linkedin&quot; title=&quot;LinkedIn&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2F10-amazing-web-typekit-fonts&amp;amp;media=&amp;amp;description=%0A%5Bscald%3D166%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&quot; class=&quot;social-share-pinterest&quot; title=&quot;Pinterest&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Pinterest&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://reddit.com/submit?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2F10-amazing-web-typekit-fonts&amp;amp;title=10%20Amazing%20Web%20Typekit%20Fonts&quot; class=&quot;social-share-reddit&quot; title=&quot;Reddit&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Reddit&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2F10-amazing-web-typekit-fonts&amp;amp;text=10%20Amazing%20Web%20Typekit%20Fonts&quot; class=&quot;social-share-twitter&quot; title=&quot;Twitter&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-thumbnail field-type-atom-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Thumbnail	    	&lt;/h2&gt;
+
+	  	
+	  
+          web-fonts.jpg    
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 15 Feb 2012 06:00:00 +0000</pubDate>
+ <dc:creator>Madison</dc:creator>
+ <guid isPermaLink="false">14 at https://www.verdadesign.com</guid>
+</item>
+<item>
+ <title>Signs You Need a New Graphic Designer</title>
+ <link>https://www.verdadesign.com/blog/signs-you-need-new-graphic-designer</link>
+ <description>
+&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+	  
+          &lt;div class=&quot;dnd-atom-wrapper type-image context-sdl_editor_representation&quot; contenteditable=&quot;false&quot;&gt;
+&lt;div class=&quot;dnd-drop-wrapper&quot;&gt;&lt;!-- scald=177:sdl_editor_representation {&quot;option&quot;:&quot;{\u201clink\u201d:\u201d\u201c}&quot;} --&gt;&lt;div class=&#039;image&#039;&gt;&lt;img src=&quot;https://www.verdadesign.com/assets/thumbnails/image/web-designer-winnipeg.jpg&quot; width=&quot;1000&quot; height=&quot;500&quot; alt=&quot;web-designer-winnipeg.jpg&quot; title=&quot;web-designer-winnipeg.jpg&quot; /&gt;&lt;/div&gt;&lt;!-- END scald=177 --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Graphic design is a profession were you need to keep current, know your typography, and have an astounding aesthetic sense to deliver the best possible product for your client. The following list is a compilation of bad practices a current, well trained graphic designer would never do. If your current graphic designer does any of these run for the hills! Please enjoy!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Double Returns for Paragraphs&lt;/h2&gt;
+&lt;p&gt;This is were you hit enter twice in a text based document. This is a good sign that the designer does not know how to properly format text. A good graphic designer will know how to set different spacing after paragraphs without double returns.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Double Space After a Sentence&lt;/h2&gt;
+&lt;p&gt;This is an extremely old school practice which is not completely out dated.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;No Text Hierarchy&lt;/h2&gt;
+&lt;p&gt;Lengthy text documents such as annual reports and booklets should always be well structured with Headlines, Sub-Headings, Footnotes and so on. If your text is all in 12pt and has not headlines in sight you may need a new graphic designer.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Use Comic Sans&lt;/h2&gt;
+&lt;p&gt;These fonts will usually repulse graphic designers. If your graphic designer is not repulsed you should be worried.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Embossed Text&lt;/h2&gt;
+&lt;p&gt;This is the first thing that graphic design students usually play around with when they learn Photoshop for the first time. Immediately After that initial experimentation embossed text should be avoided like the plague.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;No Leading Added to Text&lt;/h2&gt;
+&lt;p&gt;Default text will usually not have enough leading. Not adjusting the leading often results in the text appearing to crammed together and make is hard to read.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Absence of a Grid&lt;/h2&gt;
+&lt;p&gt;You can spot the absence of a grid when elements in a layout do not line up with anything. They may appear scattered and unorganized.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Poorly Justified Text&lt;/h2&gt;
+&lt;p&gt;Out of all of these this is my biggest pet peeve. I’ve witnessed many graphic designers fall victim to this one. Poorly justified text is apparent when the spaces between words form giant gaps or cramped space. Yikes!&lt;/p&gt;
+&lt;p&gt;If you have a sign of a bad graphic design please post a comment! &lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Other Topics of Interest	    	&lt;/h2&gt;
+
+	  	
+	  
+          &lt;div class=&quot;item-list&quot;&gt;&lt;ul class=&quot;textformatter-list&quot;&gt;&lt;li class=&quot;first&quot;&gt;&lt;a href=&quot;/tags/graphic-design&quot;&gt;Graphic Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/tags/typography&quot;&gt;Typography&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;/tags/marketing&quot;&gt;Marketing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;    
+&lt;/div&gt;
+&lt;div class=&quot;social-share clearfix&quot;&gt;&lt;a href=&quot;http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fsigns-you-need-new-graphic-designer&amp;amp;t=Signs%20You%20Need%20a%20New%20Graphic%20Designer&quot; class=&quot;social-share-facebook&quot; title=&quot;Facebook&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;https://plus.google.com/share?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fsigns-you-need-new-graphic-designer&quot; class=&quot;social-share-googleplus&quot; title=&quot;Google Plus&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Google Plus&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fsigns-you-need-new-graphic-designer&amp;amp;mini=true&amp;amp;title=Signs%20You%20Need%20a%20New%20Graphic%20Designer&amp;amp;ro=false&amp;amp;summary=%0A%5Bscald%3D177%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&amp;amp;source=&quot; class=&quot;social-share-linkedin&quot; title=&quot;LinkedIn&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fsigns-you-need-new-graphic-designer&amp;amp;media=&amp;amp;description=%0A%5Bscald%3D177%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&quot; class=&quot;social-share-pinterest&quot; title=&quot;Pinterest&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Pinterest&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://reddit.com/submit?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fsigns-you-need-new-graphic-designer&amp;amp;title=Signs%20You%20Need%20a%20New%20Graphic%20Designer&quot; class=&quot;social-share-reddit&quot; title=&quot;Reddit&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Reddit&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fsigns-you-need-new-graphic-designer&amp;amp;text=Signs%20You%20Need%20a%20New%20Graphic%20Designer&quot; class=&quot;social-share-twitter&quot; title=&quot;Twitter&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-thumbnail field-type-atom-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Thumbnail	    	&lt;/h2&gt;
+
+	  	
+	  
+          web-designer-winnipeg.jpg    
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 17 Nov 2011 06:00:00 +0000</pubDate>
+ <dc:creator>Verda</dc:creator>
+ <guid isPermaLink="false">187 at https://www.verdadesign.com</guid>
+</item>
+<item>
+ <title>Lessons Learned – A Developer&#039;s View on Design</title>
+ <link>https://www.verdadesign.com/blog/lessons-learned-%E2%80%93-developers-view-design</link>
+ <description>
+&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+	  
+          &lt;div class=&quot;dnd-atom-wrapper type-image context-sdl_editor_representation&quot; contenteditable=&quot;false&quot;&gt;
+&lt;div class=&quot;dnd-drop-wrapper&quot;&gt;&lt;!-- scald=180:sdl_editor_representation {&quot;option&quot;:&quot;{\u201clink\u201d:\u201d\u201c}&quot;} --&gt;&lt;div class=&#039;image&#039;&gt;&lt;img src=&quot;https://www.verdadesign.com/assets/thumbnails/image/web-dev-web-design.jpg&quot; width=&quot;1000&quot; height=&quot;500&quot; alt=&quot;web-dev-web-design.jpg&quot; title=&quot;web-dev-web-design.jpg&quot; /&gt;&lt;/div&gt;&lt;!-- END scald=180 --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;After spending a lot of time working with graphic designers, I now know a lot more about design than I did before. I have learned that it’s the small things that can make or break a design and can find a lot more of my mistakes before having the template scrutinized. Below is a compilation of some of the most valuable lessons I have learned about design.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Web Typography&lt;/h2&gt;
+&lt;p&gt;If there is one thing to take from this piece it’s this. &lt;a href=&quot;http://verdadesign.com/blog/tag/typography&quot; target=&quot;_blank&quot; title=&quot;web typorgraphy&quot;&gt;Typography&lt;/a&gt; is one of the largest make or break factors of a design. With a simple change of font, you can change the look of a page from sleek and modern to old and dusty.&lt;/p&gt;
+&lt;p&gt;The first thing you need to know about typography is a bit of terminology and how it translates over to &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; For some reason, &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; decided to ditch the standard terms and make their own so talking typography with a designer will be tricky without these definitions.&lt;/p&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;h2&gt;Typography Terms&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Leading&quot; target=&quot;_blank&quot; title=&quot;leading&quot;&gt;Leading:&lt;/a&gt; The amount of vertical space between lines of text. In &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;, this translates to the line-height property. This will be the most important and commonly used typography property.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://desktoppub.about.com/od/typelayout/g/kerning.htm&quot; target=&quot;_blank&quot; title=&quot;kerning&quot;&gt;Kerning:&lt;/a&gt; The space between each letter in a word. This translates to letter-spacing in &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; Usually the font used will have a good default setting but in some cases it may need to be adjusted.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Word_spacing&quot; target=&quot;_blank&quot; title=&quot;word spacing&quot;&gt;Word Spacing&lt;/a&gt;: The space between each word. This translates to word-spacing in &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;. Again, this one won’t need to be used very often, but it is still good to know the terminology.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.noupe.com/fonts/serif-fonts-and-their-peculiarities.html&quot; target=&quot;_self&quot; title=&quot;serif&quot;&gt;Serif:&lt;/a&gt; There are 4 main types of serif fonts. &lt;a href=&quot;http://www.noupe.com/fonts/serif-fonts-and-their-peculiarities.html&quot; target=&quot;_blank&quot; title=&quot;old style serif&quot;&gt;Old Style Serif&lt;/a&gt;, &lt;a href=&quot;http://www.noupe.com/fonts/serif-fonts-and-their-peculiarities.html&quot; target=&quot;_blank&quot; title=&quot;transitional serif&quot;&gt;Transitional Serif&lt;/a&gt;, &lt;a href=&quot;http://www.noupe.com/fonts/serif-fonts-and-their-peculiarities.html&quot; target=&quot;_blank&quot; title=&quot;slab serif&quot;&gt;Slab-Serif&lt;/a&gt;, and &lt;a href=&quot;http://www.noupe.com/fonts/serif-fonts-and-their-peculiarities.html&quot; target=&quot;_blank&quot; title=&quot;Modern Serif&quot;&gt;Modern Serif&lt;/a&gt;. A serif is the flourish found on the ends of letters. &lt;a href=&quot;http://new.myfonts.com/fonts/microsoft/times-new-roman/&quot; target=&quot;_blank&quot; title=&quot;times new roman&quot;&gt;Times New Roman&lt;/a&gt; is a serif font while &lt;a href=&quot;http://new.myfonts.com/fonts/microsoft/arial/&quot; target=&quot;_blank&quot; title=&quot;arial&quot;&gt;Arial&lt;/a&gt; is a sans-serif font. Most printed books are printed in serif fonts as it was found to be easier to read. For the web, sans-serif fonts are more commonly used. Each type of font gives a web page a different look and feel.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The three most important aspects to typography on the web is font-family, line-height, and font-size. Make sure that you pay attention to what font the designer is using. If it is not a standard system font, try to find a web-font version and always use your fall-backs correctly. If the design is using Helvetica for example, follow that up with Arial, and then the generic sans-serif. Your &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; would look like “font-family:’&lt;a href=&quot;http://www.helveticafilm.com/&quot; target=&quot;_blank&quot; title=&quot;helvetica&quot;&gt;Helvetica&lt;/a&gt;’, Arial, sans-serif”.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;With line-height, make sure your lines aren’t too cramped. If they are, it will be too difficult to read and it will look very strange. I usually use em’s to dictate the line-height unless I am trying to vertically centre a single line of text like in a navigation menu in which case I will set it to the exact height of the bar in pixels.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Finally, font-size. I try to always use em’s to size fonts. This way, it is easier to change the size from the browser. The problem (and at the same time, advantage) of em’s is that it’s relative sizing. If you set the body element to 0.75em (12px), when you then size, for example, the header to 0.75em, the header won’t be 12px. It will now be 9px. Rather than figuring this all out yourself, a great resource to determine what em size to make your fonts, check out &lt;a href=&quot;http://pxtoem.com/&quot; target=&quot;_blank&quot; title=&quot;pixel to em&quot;&gt;pxtoem.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;The Grid System&lt;/h2&gt;
+&lt;p&gt;Designers usually design using a &lt;a href=&quot;http://www.designbygrid.com/&quot; target=&quot;_blank&quot; title=&quot;grid system&quot;&gt;grid system&lt;/a&gt;. Grid systems can be very complex or very simple. Either way, they are based on a system of rules. Every element is placed where it is for a reason. It is never arbitrary. This does not mean however that every element lines up in a perfect column. Sometimes it is a half, a third, or a quarter of a column. Communicate with your designer to find out how wide each column is intended to be and how much spacing between each column there should be. Pay attention to what element in the main column lines up to what element in the sidebar. If you stray from the grid, the final outcome may look very lopsided.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Overall, the biggest lesson learned is communication. Web designers and web developers usually come from different educational backgrounds but have to work together to get a website off the ground. Sometimes a designer will add an element that is outside the scope of a project or that isn’t possible at all. Other times a developer might miss a font change or use the wrong grid size and make the designer really mad… To avoid these issues, remain in communication as much as possible and the final outcome will be drastically improved.&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Other Topics of Interest	    	&lt;/h2&gt;
+
+	  	
+	  
+          &lt;div class=&quot;item-list&quot;&gt;&lt;ul class=&quot;textformatter-list&quot;&gt;&lt;li class=&quot;first&quot;&gt;&lt;a href=&quot;/tags/web-development&quot;&gt;Web Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/tags/web-design&quot;&gt;Web Design&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;/tags/typography&quot;&gt;Typography&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;    
+&lt;/div&gt;
+&lt;div class=&quot;social-share clearfix&quot;&gt;&lt;a href=&quot;http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Flessons-learned-%25E2%2580%2593-developers-view-design&amp;amp;t=Lessons%20Learned%20%E2%80%93%20A%20Developer%26%23039%3Bs%20View%20on%20Design&quot; class=&quot;social-share-facebook&quot; title=&quot;Facebook&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;https://plus.google.com/share?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Flessons-learned-%25E2%2580%2593-developers-view-design&quot; class=&quot;social-share-googleplus&quot; title=&quot;Google Plus&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Google Plus&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Flessons-learned-%25E2%2580%2593-developers-view-design&amp;amp;mini=true&amp;amp;title=Lessons%20Learned%20%E2%80%93%20A%20Developer%26%23039%3Bs%20View%20on%20Design&amp;amp;ro=false&amp;amp;summary=%0A%5Bscald%3D180%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&amp;amp;source=&quot; class=&quot;social-share-linkedin&quot; title=&quot;LinkedIn&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Flessons-learned-%25E2%2580%2593-developers-view-design&amp;amp;media=&amp;amp;description=%0A%5Bscald%3D180%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&quot; class=&quot;social-share-pinterest&quot; title=&quot;Pinterest&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Pinterest&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://reddit.com/submit?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Flessons-learned-%25E2%2580%2593-developers-view-design&amp;amp;title=Lessons%20Learned%20%E2%80%93%20A%20Developer%26%23039%3Bs%20View%20on%20Design&quot; class=&quot;social-share-reddit&quot; title=&quot;Reddit&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Reddit&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Flessons-learned-%25E2%2580%2593-developers-view-design&amp;amp;text=Lessons%20Learned%20%E2%80%93%20A%20Developer%26%23039%3Bs%20View%20on%20Design&quot; class=&quot;social-share-twitter&quot; title=&quot;Twitter&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-thumbnail field-type-atom-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Thumbnail	    	&lt;/h2&gt;
+
+	  	
+	  
+          web-dev-web-design.jpg    
+&lt;/div&gt;
+</description>
+ <pubDate>Sun, 13 Nov 2011 06:00:00 +0000</pubDate>
+ <dc:creator>Madison</dc:creator>
+ <guid isPermaLink="false">24 at https://www.verdadesign.com</guid>
+</item>
+<item>
+ <title>Kern Type -  A Kerning Game</title>
+ <link>https://www.verdadesign.com/blog/kern-type-kerning-game</link>
+ <description>
+&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+	  
+          &lt;div class=&quot;dnd-atom-wrapper type-image context-sdl_editor_representation&quot; contenteditable=&quot;false&quot;&gt;
+&lt;div class=&quot;dnd-drop-wrapper&quot;&gt;&lt;!-- scald=191:sdl_editor_representation {&quot;option&quot;:&quot;{\u201clink\u201d:\u201d\u201c}&quot;} --&gt;&lt;div class=&#039;image&#039;&gt;&lt;img src=&quot;https://www.verdadesign.com/assets/thumbnails/image/kerning-game-web.jpg&quot; width=&quot;1000&quot; height=&quot;500&quot; alt=&quot;kerning-game-web.jpg&quot; title=&quot;kerning-game-web.jpg&quot; /&gt;&lt;/div&gt;&lt;!-- END scald=191 --&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;A friend of mine was kind enough to send me a link to this website this morning. For all you type lovers out there this &lt;a href=&quot;http://type.method.ac/&quot; target=&quot;_blank&quot; title=&quot;Kerning Game&quot;&gt;kerning game&lt;/a&gt; will blow your mind. It’s a great practice for first year graphic designs or anyone who wants to hone in on their&lt;a href=&quot;http://en.wikipedia.org/wiki/Kerning&quot; target=&quot;_blank&quot; title=&quot;kerning&quot;&gt; kerning&lt;/a&gt; skills. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://type.method.ac/&quot; style=&quot;line-height: 1.2;&quot; target=&quot;_blank&quot; title=&quot;Kerning type game&quot;&gt;Kerning Type Game&lt;/a&gt; - How it Works&lt;/h2&gt;
+&lt;p&gt;The user simply clicks on a letter and moves the character with the arrow keys. Once you think it looks good the user can click compare and it will give them a score out of 100. Pretty cool hey? I also love how they use various fonts to better understand the diversity amongst each character in a font. The font they selected range from &lt;a href=&quot;http://en.wikipedia.org/wiki/Sans-serif&quot; target=&quot;_blank&quot; title=&quot;sans serif&quot;&gt;sans serif&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Serif&quot; target=&quot;_blank&quot; title=&quot;serif&quot;&gt;serif&lt;/a&gt; to&lt;a href=&quot;http://en.wikipedia.org/wiki/Typeface&quot; target=&quot;_blank&quot; title=&quot;display type&quot;&gt; display type&lt;/a&gt;; &lt;a href=&quot;http://www.linotype.com/en/469/Frutiger-family.html?PHPSESSID=db8aa27377b07fb75333b7ae3dc4605f&quot; target=&quot;_blank&quot; title=&quot;frutiger&quot;&gt;Frutiger&lt;/a&gt;, &lt;a href=&quot;http://new.myfonts.com/fonts/linotype/adobe-garamond/&quot; target=&quot;_blank&quot; title=&quot;Garamond&quot;&gt;Garamond&lt;/a&gt;, &lt;a href=&quot;http://new.myfonts.com/fonts/fontfont/ff-meta/&quot; target=&quot;_blank&quot; title=&quot;meta black&quot;&gt;&lt;span class=&quot;caps&quot;&gt;FF&lt;/span&gt; Meta Black&lt;/a&gt; and &lt;a href=&quot;http://new.myfonts.com/fonts/fontfont/zine-slab/&quot; target=&quot;_blank&quot; title=&quot;Zine Slab&quot;&gt;&lt;span class=&quot;caps&quot;&gt;FF&lt;/span&gt; Zine Slab Black Italic&lt;/a&gt;. So when’s the last time you kerned?&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Other Topics of Interest	    	&lt;/h2&gt;
+
+	  	
+	  
+          &lt;div class=&quot;item-list&quot;&gt;&lt;ul class=&quot;textformatter-list&quot;&gt;&lt;li class=&quot;first&quot;&gt;&lt;a href=&quot;/tags/technology&quot;&gt;Technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/tags/typography&quot;&gt;Typography&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;/tags/web-design&quot;&gt;Web Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;    
+&lt;/div&gt;
+&lt;div class=&quot;social-share clearfix&quot;&gt;&lt;a href=&quot;http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fkern-type-kerning-game&amp;amp;t=Kern%20Type%20-%20%20A%20Kerning%20Game&quot; class=&quot;social-share-facebook&quot; title=&quot;Facebook&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;https://plus.google.com/share?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fkern-type-kerning-game&quot; class=&quot;social-share-googleplus&quot; title=&quot;Google Plus&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Google Plus&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fkern-type-kerning-game&amp;amp;mini=true&amp;amp;title=Kern%20Type%20-%20%20A%20Kerning%20Game&amp;amp;ro=false&amp;amp;summary=%0A%5Bscald%3D191%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&amp;amp;source=&quot; class=&quot;social-share-linkedin&quot; title=&quot;LinkedIn&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fkern-type-kerning-game&amp;amp;media=&amp;amp;description=%0A%5Bscald%3D191%3Asdl_editor_representation%20%7B%E2%80%9Clink%E2%80%9D%3A...&quot; class=&quot;social-share-pinterest&quot; title=&quot;Pinterest&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Pinterest&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://reddit.com/submit?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fkern-type-kerning-game&amp;amp;title=Kern%20Type%20-%20%20A%20Kerning%20Game&quot; class=&quot;social-share-reddit&quot; title=&quot;Reddit&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Reddit&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.verdadesign.com%2Fblog%2Fkern-type-kerning-game&amp;amp;text=Kern%20Type%20-%20%20A%20Kerning%20Game&quot; class=&quot;social-share-twitter&quot; title=&quot;Twitter&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;Twitter&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-thumbnail field-type-atom-reference field-label-above&quot;&gt;
+	  
+	  	
+	    	&lt;h2 class=&quot;field-label display-above&quot;&gt;
+	    		Thumbnail	    	&lt;/h2&gt;
+
+	  	
+	  
+          kerning-game-web.jpg    
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 13 Oct 2011 14:37:38 +0000</pubDate>
+ <dc:creator>Madison</dc:creator>
+ <guid isPermaLink="false">46 at https://www.verdadesign.com</guid>
+</item>
+</channel>
+</rss>
