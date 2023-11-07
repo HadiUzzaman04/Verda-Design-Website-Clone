@@ -191,7 +191,7 @@ img {
 
 /* line 21, ../sass/screen.scss */
 #masthead {
-  padding: 40px 20px;
+  padding: 20px 20px;
   background: #131313;
 }
 /* line 25, ../sass/screen.scss */
@@ -241,7 +241,7 @@ img {
 @media screen and (min-width: 480px) and (max-width: 959px) and (min-width: 760px) {
   /* line 42, ../sass/screen.scss */
   #masthead {
-    height: 90px;
+    height: 80px;
   }
   /* line 62, ../sass/screen.scss */
   #masthead img {
@@ -909,7 +909,7 @@ img {
   margin: 0 auto 20px auto;
   width: 280px;
   height: 24px;
-  background: url(../img/verda-footer-logo.svg);
+  background: url(../img/footer.png);
   background-size: 100% auto;
   background-repeat: no-repeat;
   text-indent: -9999px;
